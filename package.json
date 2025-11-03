@@ -1,0 +1,15 @@
+{
+  "name": "intellecto-ai",
+  "version": "1.0.0",
+  "description": "Intellecto AI Application",
+  "main": "index.js",
+  "scripts": {
+    "build": "esbuild index.tsx --bundle --outfile=dist/bundle.js --loader:.js=jsx --jsx=automatic"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.20.0"
+  }
+}

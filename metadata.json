@@ -1,0 +1,9 @@
+{
+  "name": "Intellecto AI",
+  "description": "A powerful and versatile AI application showcasing a wide range of Gemini capabilities, including advanced chat, image and video generation, real-time voice conversations, and grounded, factual responses.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
